@@ -4,7 +4,6 @@
 
 - `programs/`
   - `program-a/` and `program-b/`: Rust source code for Solana programs.
-- `app/`: (Optional) Application code interacting with the programs.
 - `migrations/`: Deployment scripts (e.g., `deploy.ts`).
 - `tests/`: TypeScript tests for the programs.
 - `target/`: Build artifacts, deployed binaries, and IDLs.
